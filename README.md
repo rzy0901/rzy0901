@@ -1,6 +1,6 @@
 ### Welcome to RZY's profile! 👋
 
-- I'm currently an undergraduate student in SUSTech (Southern University of Science and Technology), ShenZhen, China.
+- I'm currently an undergraduate student in SUSTech (Southern University of Science and Technology), Shenzhen, Guangdong Province, China.
 
 - I'm majoring in Communication Engineering.
 
