@@ -1,6 +1,7 @@
 ### Welcome to RZY's profile! 👋
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rzy0901&show_icons=true&&theme=tokyonight">](https://github.com/rzy0901?template=classic)
 
-- I'm currently an undergraduate student in [SUSTech](https://www.sustech.edu.cn/) (Southern University of Science and Technology), Shenzhen, Guangdong Province, China.
+- I'm currently an undergraduate student in [SUSTech](https://www.sustech.edu.cn/en) (Southern University of Science and Technology).
 
 - I'm majoring in Communication Engineering.
 
@@ -8,6 +9,5 @@
 
 - Research interest: [ISAC](https://www.ieee-isac.org/) (Integrated Sensing And Communication).
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rzy0901&show_icons=true&&theme=tokyonight">](https://github.com/rzy0901?template=classic)
 
 
