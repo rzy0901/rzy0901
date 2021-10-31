@@ -8,8 +8,6 @@
 
 - Research interest: [ISAC](https://www.ieee-isac.org/) (Integrated Sensing And Communication).
 
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rzy0901&show_icons=true&&theme=tokyonight">](https://github.com/rzy0901?template=classic)
 
-```text
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RZY0901)](https://github.com/anuraghazra/github-readme-stats)
-```
 
