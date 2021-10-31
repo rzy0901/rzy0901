@@ -10,6 +10,6 @@
 
 
 ```text
-[![rzy0901's github stats](https://github-readme-stats.vercel.app/api?username=rzy0901)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RZY0901)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
