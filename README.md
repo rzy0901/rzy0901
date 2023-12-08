@@ -4,7 +4,7 @@
 - 📫 Research interest: Wireless Communication / Sensing.
 - ⚒️ Proficient in `C++`, `Python`, `Matlab`, `Java`.
 - 🔍 Currently seeking opportunities for a PhD position or job.
-- Feel free to reach me at `renzy2022[at]mail.sustech.edu.cn` or `zren664[at]gmail.com`.
+- 📧 Feel free to reach me at `renzy2022[at]mail.sustech.edu.cn` or `zren664[at]gmail.com`.
 
 [GitHub Stats](https://github.com/rzy0901/github-stats):
 
