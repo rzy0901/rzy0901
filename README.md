@@ -1,7 +1,7 @@
 # Zhenyu Ren (任振裕) [![Github](https://img.shields.io/badge/Personal_webiste-rzy0901-blue)](https://rzy0901.github.io)
 
 - 😄 A master's student at SUSTech (expected graduation: June 2025).
-- 📫 Research interest: Wireless Communication.
+- 📫 Research interest: Wireless Communication / Sensing.
 - ⚒️ Proficient in `C++`, `Python`, `Matlab`, `Java`.
 - 🔍 Currently seeking opportunities for a PhD position or job.
 - Feel free to reach me at `renzy2022[at]mail.sustech.edu.cn` or `zren664[at]gmail.com`.
