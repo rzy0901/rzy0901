@@ -3,6 +3,7 @@
 - 😄 A master's student at SUSTech (expected graduation: June 2025)
 - 📫 Research interest: Wireless Communication
 - ⚒️ Proficient in C++, Python, Matlab, Java
+- 🔍 Currently seeking opportunities for a PhD position or job.
 
 [GitHub Stats](https://github.com/rzy0901/github-stats):
 
