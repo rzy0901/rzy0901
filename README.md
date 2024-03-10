@@ -1,4 +1,4 @@
-# Zhenyu Ren (任振裕) [![Github](https://img.shields.io/badge/Personal_webiste-rzy0901.github.io-blue)](https://rzy0901.github.io) [![Github](https://img.shields.io/badge/Personal_webiste-renzhenyu.site-blue)](https://renzhenyu.site)
+# Zhenyu Ren (任振裕) [![Github](https://img.shields.io/badge/Personal_webiste-renzhenyu.site-blue)](https://renzhenyu.site)  [![Github](https://img.shields.io/badge/CV-renzhenyu.site/cv-blue)](https://renzhenyu.site/cv/) 
 
 - 😄 A master's student at SUSTech (expected graduation: June 2025).
 - 📫 Research interest: Wireless Communication / Sensing.
